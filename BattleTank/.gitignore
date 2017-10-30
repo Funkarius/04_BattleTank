@@ -10,6 +10,9 @@
 *.o
 *.obj
 
+# starter content
+/Content/StarterContent/
+
 # Precompiled Headers
 *.gch
 *.pch
